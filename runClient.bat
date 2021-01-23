@@ -1,0 +1,1 @@
+ java -jar ""C:\Users\user\Desktop\FlightSimulatorControl\Client.jar""
