@@ -1,6 +1,6 @@
 # Flight Simulator Control 
 
-[![Presentation Project]](https://youtu.be/PZG898DoTkY)
+[Presentation Project](https://youtu.be/PZG898DoTkY)
 
 Press on the photo so see a video of the project.
 
